@@ -1,1 +1,10 @@
-
+body {
+  font-family: 'Tahoma', 'Arial', sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+h1, h3 {
+  color: #3b3b3b;
+}
